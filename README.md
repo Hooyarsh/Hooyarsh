@@ -5,7 +5,7 @@
         I started programming with python and had project in machine learning and openCV.
         I'm also familiar with penetration testing.</p>
 
-##🔭 Skills
+## 🔭 Skills
 
 -   I have sufficient knowledge and experince of Python.
 -   Machine Learning
