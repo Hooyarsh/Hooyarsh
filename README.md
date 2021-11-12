@@ -1,8 +1,17 @@
 # Hi, I'm Hooyar! 👋
 
  
-I'm a student.
-- 🔭 I have sufficient knowledge and experince of Python.
+<p class="lead text-muted">Hey I'm Hooyar Shahidi. I'm a student at <a href="https://www.helli3.com" target="_blank">Helli 3 High School </a>.
+        I started programming with python and had project in machine learning and openCV.
+        I'm also familiar with penetration testing.</p>
+
+##🔭 Skills
+
+-   I have sufficient knowledge and experince of Python.
+-   Machine Learning
+-   Operating systems: Linux - MacOS - Windows
+-   Penetration testing  
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hooyar-shahidi-060335206/)
