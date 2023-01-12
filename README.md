@@ -1,8 +1,8 @@
 # <img src="https://avatars.githubusercontent.com/u/58654628?v=4" width="200" height="200">  Hi, I'm Hooyar! 👋
 
  
-<p class="lead text-muted">Hey I'm Hooyar. I'm a student at <a href="https://www.helli3.ir" target="_blank">Helli 3 High School </a> (<a href="https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents" targat=_blank">NODET</a>) .
-        I started programming with python and had project in machine learning and openCV.</p>
+<p class="lead text-muted">Hey I'm Hooyar. I'm a former student at <a href="https://www.helli3.ir" target="_blank">Helli 3 High School </a> (<a href="https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents" targat=_blank">NODET</a>) and now studying Economics at University of Tehran.
+        I started programming with python and had projects in machine learning and openCV.</p>
 
 ## 🔭 Skills
 
