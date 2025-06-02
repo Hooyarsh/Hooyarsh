@@ -1,8 +1,7 @@
 # <img src="https://avatars.githubusercontent.com/u/58654628?v=4" width="200" height="200">  Hi, I'm Hooyar! 👋
 
  
-<p class="lead text-muted">Hey I'm Hooyar. I'm a former student at <a href="https://www.helli3.ir" target="_blank">Helli 3 High School </a> (<a href="https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents" targat=_blank">NODET</a>) and now studying Economics at University of Tehran.
-        I started programming with python and had projects in machine learning and openCV.</p>
+<p class="lead text-muted">Hi, I’m Hooyar. I’m currently studying Economics at the University of Tehran, where I combine my passion for data analysis and macro-finance with hands-on coding projects.</p>
 
 ## 🔭 Skills
 
@@ -10,12 +9,10 @@
 -   Machine Learning
 -   Operating systems: Linux - MacOS - Windows
 -   Penetration testing
--   Professional RickRoller  
 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hooyar-shahidi-060335206/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Retr_0_)
 
 ## One last thing...
 
