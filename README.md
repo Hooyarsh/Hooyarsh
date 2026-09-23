@@ -1,13 +1,15 @@
-# <img src="https://avatars.githubusercontent.com/u/58654628?v=4" width="200" height="200">  Hi, I'm Hooyar! 👋
+# <img src="https://avatars.githubusercontent.com/u/58654628?v=4" width="200" height="200">
 
  
-<p class="lead text-muted">Hi, I’m Hooyar. I’m currently studying Economics at the University of Tehran, where I combine my passion for data analysis and macro-finance with hands-on coding projects.</p>
+<p class="lead text-muted">Hi, I’m Hooyar.
+Economics Graduate
+Data Science Passionate 
 
 ## 🔭 Skills
 
 -   I have sufficient knowledge and experince of Python (OpenCV, Django, Pygame, Numpy, etc).
 -   Machine Learning
--   Operating systems: Linux - MacOS - Windows
+-   Operating systems: Linux - MacOS
 -   Penetration testing
 
 
